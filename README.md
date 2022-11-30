@@ -1,2 +1,3 @@
-# voxy_login_testing
+# VoxyLoginPage_Tests
 Coding challenge - Voxy login page test cases
+
