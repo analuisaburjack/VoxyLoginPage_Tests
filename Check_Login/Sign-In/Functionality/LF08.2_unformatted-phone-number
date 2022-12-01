@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-L08.2 | `high` | Verify login functionality whith unformatted phone number| `1.0`
+LF08.2 | `high` | Verify login functionality whith unformatted phone number| `1.0`
 
 ### Prerequisites
 1. access to browser
