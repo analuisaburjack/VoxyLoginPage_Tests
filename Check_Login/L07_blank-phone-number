@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-L7 | `high` | Verify login functionality whith blank phone number| `1.0`
+L07 | `high` | Verify login functionality whith blank phone number| `1.0`
 
 ### Prerequisites
 1. access to browser
