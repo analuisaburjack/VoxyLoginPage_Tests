@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-L3 | `critical` | Verify login functionality whith correctly formated e-mail, although, invalid| `1.0`
+L03 | `critical` | Verify login functionality whith correctly formated e-mail, although, invalid| `1.0`
 
 ### Prerequisites
 1. access to browser
