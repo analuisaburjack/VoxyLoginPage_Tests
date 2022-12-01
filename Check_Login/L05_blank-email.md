@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-L4 | `high` | Verify login functionality whith blank e-mail| `1.0`
+L05 | `high` | Verify login functionality whith blank e-mail| `1.0`
 
 ### Prerequisites
 1. access to browser
