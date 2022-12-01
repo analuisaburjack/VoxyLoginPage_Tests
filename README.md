@@ -54,20 +54,20 @@ Id | Description | Priority
 
 Id | Description | Priority
 ---|---|---
-LoginFunc01|valid email|`critical`
-LoginFunc02|valid phone number|`critical`
-LoginFunc03|blank email|`high`
-LoginFunc04.1|unformatted email|`high`
-LoginFunc04.2|unformatted email|`high`
-LoginFunc04.3|unformatted email|`high`
-LoginFunc04.4|unformatted email|`high`
-LoginFunc04.5|unformatted email|`high`
-LoginFunc05|blank phone number|`high`
-LoginFunc06.1|unformatted phone number|`high`
-LoginFunc06.2|unformatted phone number|`high`
-LoginFunc06.3|unformatted phone number|`high`
-LoginFunc07|valid alternative phone number format|`medium`
-LoginFunc08|invalid alternative phone number format|`medium`
-LoginSec01|invalid email|`critical`
-LoginSec02|invalid phone number|`critical`
-LoginUsab01|formatting phone number|`medium`
+[LoginFunc01](./Check_Login/Functionality/LoginFunc01_valid-email.md)|valid email|`critical`
+[LoginFunc02](./Check_Login/Functionality/LoginFunc02_valid-phone-number.md)|valid phone number|`critical`
+[LoginFunc03](./Check_Login/Functionality/LoginFunc03_blank-email.md)|blank email|`high`
+[LoginFunc04.1](./Check_Login/Functionality/LoginFunc04.1_unformatted-email.md)|unformatted email|`high`
+[LoginFunc04.2](./Check_Login/Functionality/LoginFunc04.2_unformatted-email.md)|unformatted email|`high`
+[LoginFunc04.3](./Check_Login/Functionality/LoginFunc04.3_unformatted-email.md)|unformatted email|`high`
+[LoginFunc04.4](./Check_Login/Functionality/LoginFunc04.4_unformatted-email.md)|unformatted email|`high`
+[LoginFunc04.5](./Check_Login/Functionality/LoginFunc04.5_unformatted-email.md)|unformatted email|`high`
+[LoginFunc05](./Check_Login/Functionality/LoginFunc05_blank-phone-number.md)|blank phone number|`high`
+[LoginFunc06.1](./Check_Login/Functionality/LoginFunc06.1_unformatted-phone-number.md)|unformatted phone number|`high`
+[LoginFunc06.2](./Check_Login/Functionality/LoginFunc06.2_unformatted-phone-number.md)|unformatted phone number|`high`
+[LoginFunc06.3](./Check_Login/Functionality/LoginFunc06.3_unformatted-phone-number.md)|unformatted phone number|`high`
+[LoginFunc07](./Check_Login/Functionality/LoginFunc07_valid-alternative-phone-number-format.md)|valid alternative phone number format|`medium`
+[LoginFunc08](./Check_Login/Functionality/LoginFunc08_invalid-alternative-phone-number-format.md)|invalid alternative phone number format|`medium`
+[LoginSec01](./Check_Login/Security/LoginSec01_invalid-email.md)|invalid email|`critical`
+[LoginSec02](./Check_Login/Security/LoginSec02_invalid-phone-number.md)|invalid phone number|`critical`
+[LoginUsab01](./Check_Login/Usability/LoginUsab01_formatting-phone-number.md)|formatting phone number|`medium`
