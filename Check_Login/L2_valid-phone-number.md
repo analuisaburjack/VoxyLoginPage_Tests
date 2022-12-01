@@ -1,6 +1,6 @@
-Test case id | Critical? | Description | Version
+Test case id | Priority | Description | Version
 ---|---|---|---
-Login-2 | `YES` | Verify login functionality whith valid phone number | `1.0`
+L2 | `critical` | Verify login functionality whith valid phone number | `1.0`
 
 ### Prerequisites
 1. access to browser
