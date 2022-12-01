@@ -26,6 +26,6 @@ AF04 | `critical` | Verify activation functionality whith invalid activation cod
 6. Click on "Ativar"
 
 ### Expected Results
-1. User should be presented with a pop-up warning that the activation code is invalid and request a correction
+1. User should be presented with a warning that the activation code is invalid and request a correction
 2. System should present only the option to try again
 3. User should not be able to access the platform
