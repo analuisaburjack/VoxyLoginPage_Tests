@@ -50,6 +50,8 @@ Id | Description | Priority
 [ActivationUsab02](./Check_Activation/Usability/ActivationUsab02_password-instructions.md)|password instructions|`high`
 [ActivationUsab03](./Check_Activation/Usability/ActivationUsab03_formatting-phone-number.md)|formatting phone number|`medium`
 
+<br>
+
 ### Check_Login
 
 Id | Description | Priority
