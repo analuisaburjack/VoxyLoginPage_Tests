@@ -12,8 +12,9 @@ L6.1 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
 ### Steps
 1. Navigate to login page (https://app.voxy.com/v2/#/login/)
 2. Select login option phone number
-3. Enter the phone number id provided in the "test data" section
-4. Click outside the text field
+3. Select the country Brazil
+4. Enter the phone number id provided in the "test data" section
+5. Click outside the text field
 
 ### Expected Results
 1. Button "Continuar" should remain disabled
