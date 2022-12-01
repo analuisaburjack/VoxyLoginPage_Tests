@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-L01 | `critical` | Verify login functionality whith valid email | `1.0`
+LF01 | `critical` | Verify login functionality whith valid email | `1.0`
 
 ### Prerequisites
 1. access to browser
