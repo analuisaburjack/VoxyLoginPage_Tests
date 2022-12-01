@@ -1,6 +1,6 @@
-Test case id | Priority | Description | Version
+Test case id | Critical?| Description | Version
 ---|---|---|---
-Login-3 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
+Login-3 | `NO` | Verify login functionality whith unformatted e-mail| `1.0`
 
 ### Prerequisites
 1. access to browser
