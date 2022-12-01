@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF07.1 | `critical` | Verify login functionality when a valid password is provided| `1.0`
+ActivationSec03 | `critical` | Verify login functionality when a valid password is provided| `1.0`
 
 ### Prerequisites
 1. access to browser
