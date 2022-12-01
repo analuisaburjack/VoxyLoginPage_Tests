@@ -14,7 +14,7 @@ L9 | `medium` | Verify login functionality whith valid alternative phone number 
 2. Select login option phone number
 3. Select the country Brazil
 4. Enter the phone number id provided in the "test data" section
-5. Click outside the text field
+5. Click on "Continuar"
 
 ### Expected Results
 1. User should be redirected to home page
