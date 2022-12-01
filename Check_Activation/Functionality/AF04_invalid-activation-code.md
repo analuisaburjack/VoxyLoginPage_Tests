@@ -23,6 +23,7 @@ AF04 | `critical` | Verify activation functionality whith invalid activation cod
 3. Enter the activation code provided in the "test data" section
 4. Click on "Continuar"
 5. Enter informations provided by the "test data" section
+6. Click on "Ativar"
 
 ### Expected Results
 1. User should be presented with a pop-up warning that the activation code is invalid and request a correction
