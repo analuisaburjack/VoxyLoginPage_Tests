@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-L02 | `critical` | Verify login functionality whith valid phone number | `1.0`
+LF02 | `critical` | Verify login functionality whith valid phone number | `1.0`
 
 ### Prerequisites
 1. access to browser
