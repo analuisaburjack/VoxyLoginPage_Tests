@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AS01 | `high` | Verify activation security while not allowing to copypaste the password confirmation | `1.0`
+ActivationSec01 | `high` | Verify activation security while not allowing to copypaste the password confirmation | `1.0`
 
 ### Prerequisites
 1. access to browser
