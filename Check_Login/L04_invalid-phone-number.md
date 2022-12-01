@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-L4 | `critical` | Verify login functionality whith correctly formated phone number, although, invalid| `1.0`
+L04 | `critical` | Verify login functionality whith correctly formated phone number, although, invalid| `1.0`
 
 ### Prerequisites
 1. access to browser
