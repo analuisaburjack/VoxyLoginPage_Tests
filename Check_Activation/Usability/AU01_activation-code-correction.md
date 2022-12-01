@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AU01 | `high` | Verify activation functionality whith invalid activation code | `1.0`
+AU01 | `high` | Verify activation usability when invalid activation code must be corrected | `1.0`
 
 ### Prerequisites
 1. access to browser
