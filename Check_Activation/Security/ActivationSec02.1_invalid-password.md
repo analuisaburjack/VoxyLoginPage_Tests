@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF07.1 | `critical` | Verify login functionality when a invalid password is provided, not respecting the length requirement| `1.0`
+ActivationSec02.1 | `critical` | Verify login functionality when a invalid password is provided, not respecting the length requirement| `1.0`
 
 ### Prerequisites
 1. access to browser
