@@ -5,7 +5,6 @@ L3 | `critical` | Verify login functionality whith correctly formated e-mail, al
 ### Prerequisites
 1. access to browser
 2. working internet
-3. e-mail provided on test data
 
 ### Test Data
 * e-mail id: ana@ana.com
