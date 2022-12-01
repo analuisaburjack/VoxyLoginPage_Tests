@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF06.1 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
+ActivationFunc06.1 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
 
 ### Prerequisites
 1. access to browser

@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-LF04.3 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
+LoginFunc04.3 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
 
 ### Prerequisites
 1. access to browser

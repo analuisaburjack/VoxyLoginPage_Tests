@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF03 | `critical` | Verify activation functionality whith valid informations | `1.0`
+ActivationFunc03 | `critical` | Verify activation functionality whith valid informations | `1.0`
 
 ### Prerequisites
 1. access to browser

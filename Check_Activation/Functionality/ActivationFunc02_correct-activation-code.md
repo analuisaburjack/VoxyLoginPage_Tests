@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF02 | `high` | Verify login functionality whith correct activation code| `1.0`
+ActivationFunc02 | `high` | Verify login functionality whith correct activation code| `1.0`
 
 ### Prerequisites
 1. access to browser

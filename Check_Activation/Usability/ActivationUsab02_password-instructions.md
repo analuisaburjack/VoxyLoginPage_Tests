@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AU02 | `high` | Verify activation usability concerning the ability to provide clear instructions for writing a valid password| `1.0`
+ActivationUsab02 | `high` | Verify activation usability concerning the ability to provide clear instructions for writing a valid password| `1.0`
 
 ### Prerequisites
 1. access to browser

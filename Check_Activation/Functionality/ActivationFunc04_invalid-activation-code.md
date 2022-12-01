@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF04 | `critical` | Verify activation functionality whith invalid activation code | `1.0`
+ActivationFunc04 | `critical` | Verify activation functionality whith invalid activation code | `1.0`
 
 ### Prerequisites
 1. access to browser

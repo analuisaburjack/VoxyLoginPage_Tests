@@ -1,13 +1,13 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-LF04.1 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
+LoginFunc04.4 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
 
 ### Prerequisites
 1. access to browser
 2. working internet
 
 ### Test Data
-* e-mail id: ana
+* e-mail id: ana@ana.
 
 ### Steps
 1. Navigate to login page (https://app.voxy.com/v2/#/login/)

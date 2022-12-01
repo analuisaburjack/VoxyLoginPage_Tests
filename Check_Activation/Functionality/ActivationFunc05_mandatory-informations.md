@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF05 | `critical` | Verify login functionality when no mandatory information is provided| `1.0`
+ActivationFunc05 | `critical` | Verify login functionality when no mandatory information is provided| `1.0`
 
 ### Prerequisites
 1. access to browser

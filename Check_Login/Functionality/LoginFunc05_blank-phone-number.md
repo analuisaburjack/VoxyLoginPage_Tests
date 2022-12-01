@@ -1,18 +1,18 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-LF04.4 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
+LoginFunc05 | `high` | Verify login functionality whith blank phone number| `1.0`
 
 ### Prerequisites
 1. access to browser
 2. working internet
 
 ### Test Data
-* e-mail id: ana@ana.
+* phone number: blank
 
 ### Steps
 1. Navigate to login page (https://app.voxy.com/v2/#/login/)
-2. Select login option e-mail
-3. Enter the e-mail id provided in the "test data" section
+2. Select login option phone number
+3. Click on the text field
 4. Click outside the text field
 
 ### Expected Results
