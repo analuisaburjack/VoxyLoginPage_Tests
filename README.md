@@ -12,9 +12,15 @@ Coding challenge - Voxy login page test cases
 
 <br>Each test case id is named after the high-level function is being tested, wich aspect wil be tested and the number sequence.
 
-<br>Examples:
+Examples:
 * ActivationFunc01
 * LoginSec02
+
+<br>Each test case name must contain its id and a brief description, hyphaned instead of spaced in between the words.
+
+Examples:
+* ActivationFunc01_incorrect-activation-code
+* ActivationSec05_invalid-password-confirmation
 
 ## Index
 
