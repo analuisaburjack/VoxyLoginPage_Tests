@@ -12,7 +12,7 @@ Login-3 | `high` | Verify login functionality whith unformatted e-mail| `1.0`
 ### Steps
 1. Navigate to login page (https://app.voxy.com/v2/#/login/)
 2. Select login option e-mail
-3. Click on the text field designited for the e-mail
+3. Click on the text field
 4. Click outside the text field
 
 ### Expected Results
