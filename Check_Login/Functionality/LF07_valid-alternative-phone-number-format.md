@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-LF09 | `medium` | Verify login functionality whith valid alternative phone number format| `1.0`
+LF07 | `medium` | Verify login functionality whith valid alternative phone number format| `1.0`
 
 ### Prerequisites
 1. access to browser
