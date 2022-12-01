@@ -1,6 +1,6 @@
 Test case id | Priority | Description | Version
 ---|---|---|---
-AF07.3 | `critical` | Verify login functionality when a invalid password is provided, not respecting the lowercase letter requirement| `1.0`
+ActivationSec02.3 | `critical` | Verify login functionality when a invalid password is provided, not respecting the lowercase letter requirement| `1.0`
 
 ### Prerequisites
 1. access to browser
